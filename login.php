@@ -10,7 +10,7 @@ session_start(); ?>
     <link rel="SHORTCUT ICON" href="images/fibble.png" type="image/x-icon" />
     <link rel="ICON" href="images/fibble.png" type="image/ico" />
 
-    <title>Fibble - Login</title>
+    <title>FarmBlock - Login</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
