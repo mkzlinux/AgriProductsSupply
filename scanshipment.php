@@ -12,7 +12,7 @@ $color="navbar-dark cyan darken-3";
     <link rel="SHORTCUT ICON" href="images/fibble.png" type="image/x-icon" />
     <link rel="ICON" href="images/fibble.png" type="image/ico" />
 
-    <title>Fibble - Scan Shipments</title>
+    <title>FarmBlock - Scan Transporters</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -213,7 +213,7 @@ $color="navbar-dark cyan darken-3";
     }
 
     $("#aboutbtn").on("click", function(){
-        showAlert("A Decentralised End to End Logistics Application that stores the whereabouts of product at every freight hub to the Blockchain. At consumer end, customers can easily scan product's QR CODE and get complete information about the provenance of that product hence empowering	consumers to only purchase authentic and quality products.");
+        showAlert("A Decentralised End to End Logistics Application that stores the whereabouts of product at every instance of transportation to the Blockchain. At consumer end, customers can easily scan product's QR CODE and get complete information about the provenance of that product hence empowering	consumers to only purchase authentic and quality products.");
     });
 
     </script>
